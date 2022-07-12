@@ -3,6 +3,4 @@
 This site es fantastic jcvo
 
 
-changes made on update-readme branch
-
-update locally
+update made un main branch on github before rebase
